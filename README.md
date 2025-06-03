@@ -8,4 +8,5 @@
 
 * assignments    (Class coding assignments)
 
-is it working?
+#### Disclaimer 
+This was done in 2022 in replit. So any formatting issues that I haven't caught may be due to that
