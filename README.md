@@ -1,2 +1,10 @@
-# Butte_CSCI_21
-Spring 2022 I took a coding class that taught us C language
+# CSCI 21 - Spring 2022 #
+
+### What is this repository for? ###
+
+* Class Coding Assignments
+
+### Repository Structure ###
+
+* assignments    (Class coding assignments)
+
