@@ -2,11 +2,13 @@
 
 ### What is this repository for? ###
 
+* Class Example Files
+* Class Labs
 * Class Coding Assignments
 
 ### Repository Structure ###
 
+* class_examples (Class code example files)
 * assignments    (Class coding assignments)
-
-#### Disclaimer 
-This was done in 2022 in replit. So any formatting issues that I haven't caught may be due to that
+* labs           (Class daily labs)
+* helpful_files  (Files to help with compilation)
